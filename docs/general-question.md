@@ -25,6 +25,9 @@ https://chat.openai.com/share/3880e81a-0789-4b93-8768-3db41f6a2ef9
 
 上記リンクがアクセスできない場合には、[general-question-evaluation-by-chatgpt4.txt](general-question-evaluation-by-chatgpt4.txt)
 
+表は下記のGoogle spreadsheetで管理。（アクセス制限あり）
+https://docs.google.com/spreadsheets/d/10WPaFQ1LY94xKrCXP7HGWrPmtNX105S2SGEJcjznzzE/edit#gid=2059013992
+
 ## Results
 
 |Model Name                                |Architecture|Parameters   |Question date|Q1 |Q2 |Q3 |Q4 |Q5 |Total score|
