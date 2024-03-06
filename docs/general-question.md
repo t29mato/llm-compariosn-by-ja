@@ -27,23 +27,24 @@ https://chat.openai.com/share/3880e81a-0789-4b93-8768-3db41f6a2ef9
 
 ## Results
 
-|Model Name                                |Model Architecture|Number of Parameters|Question date|Question 1 Evaluation|Question 2 Evaluation|Question 3 Evaluation|Question 4 Evaluation|Question 5 Evaluation|Total score out of 100|
-|------------------------------------------|------------------|--------------------|-------------|---------------------|---------------------|---------------------|---------------------|---------------------|----------------------|
-|Qwen2-beta-7B-Chat                        |qwen2             |7B                  |2024-02-13   |17                   |15                   |15                   |18                   |14                   |79                    |
-|Phi2                                      |phi2              |3B                  |2024-02-13   |8                    |9                    |5                    |6                    |7                    |35                    |
-|stablelm                                  |stablelm          |3B                  |2024-02-13   |10                   |12                   |14                   |6                    |8                    |50                    |
-|mistralai_mistral-7b-instruct-v0.2 (llama)|llama             |7B                  |2024-02-13   |17                   |16                   |13                   |5                    |15                   |66                    |
-|teknium_openhermes-2.5-mistral-7b (llama) |llama             |7B                  |2024-02-13   |14                   |13                   |10                   |19                   |15                   |71                    |
-|huggingfaceh4_zephyr-7b-beta (llama)      |llama             |7B                  |2024-02-13   |18                   |16                   |14                   |17                   |15                   |80                    |
-|Gemini                                    |Transformer       |137B?               |2024-02-13   |18                   |17                   |15                   |19                   |16                   |85                    |
-|ChatGPT3.5                                |GPT-3.5           |175B?               |2024-02-13   |18                   |17                   |15                   |19                   |16                   |85                    |
-|ChatGPT4                                  |Transformer       |175B?               |2024-02-13   |17                   |16                   |15                   |19                   |16                   |83                    |
-|Microsoft Copilot                         |GPT-4             |1.3 billion?        |2024-02-13   |18                   |17                   |16                   |19                   |16                   |86                    |
-|Claude Instant 1.2                        |Transformer       |768M?               |2024-03-06   |17                   |16                   |15                   |19                   |16                   |83                    |
-|Claude 2.0                                |Transformer       |1.5B?               |2024-03-06   |18                   |17                   |16                   |19                   |16                   |86                    |
-|Claude 2.1                                |Transformer       |1.5B?               |2024-03-06   |18                   |17                   |16                   |19                   |16                   |86                    |
-|Claude 3 Sonnet                           |Transformer       |1.5B?               |2024-03-06   |18                   |17                   |16                   |10                   |16                   |77                    |
-|Claude 3 Opus                             |Transformer       |3.0B?               |2024-03-06   |18                   |17                   |16                   |19                   |17                   |87                    |
+|Model Name                                |Architecture|Parameters   |Question date|Q1 |Q2 |Q3 |Q4 |Q5 |Total score|
+|------------------------------------------|------------|-------------|-------------|---|---|---|---|---|-----------|
+|Qwen2-beta-7B-Chat                        |qwen2       |7B           |2024-02-13   |17 |15 |15 |18 |14 |79         |
+|Phi2                                      |phi2        |3B           |2024-02-13   |8  |9  |5  |6  |7  |35         |
+|stablelm                                  |stablelm    |3B           |2024-02-13   |10 |12 |14 |6  |8  |50         |
+|mistralai_mistral-7b-instruct-v0.2 (llama)|llama       |7B           |2024-02-13   |17 |16 |13 |5  |15 |66         |
+|teknium_openhermes-2.5-mistral-7b (llama) |llama       |7B           |2024-02-13   |14 |13 |10 |19 |15 |71         |
+|huggingfaceh4_zephyr-7b-beta (llama)      |llama       |7B           |2024-02-13   |18 |16 |14 |17 |15 |80         |
+|Gemini                                    |Transformer |137B?        |2024-02-13   |18 |17 |15 |19 |16 |85         |
+|ChatGPT3.5                                |GPT-3.5     |175B?        |2024-02-13   |18 |17 |15 |19 |16 |85         |
+|ChatGPT4                                  |Transformer |175B?        |2024-02-13   |17 |16 |15 |19 |16 |83         |
+|Microsoft Copilot                         |GPT-4       |1.3 billion? |2024-02-13   |18 |17 |16 |19 |16 |86         |
+|Claude Instant 1.2                        |Transformer |768M?        |2024-03-06   |17 |16 |15 |19 |16 |83         |
+|Claude 2.0                                |Transformer |1.5B?        |2024-03-06   |18 |17 |16 |19 |16 |86         |
+|Claude 2.1                                |Transformer |1.5B?        |2024-03-06   |18 |17 |16 |19 |16 |86         |
+|Claude 3 Sonnet                           |Transformer |1.5B?        |2024-03-06   |18 |17 |16 |10 |16 |77         |
+|Claude 3 Opus                             |Transformer |3.0B?        |2024-03-06   |18 |17 |16 |19 |17 |87         |
+
 
 
 ## 1. 量子コンピューターがどのように機能するか、その原理と実用的な応用について詳しく説明してください。
