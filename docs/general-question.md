@@ -16,7 +16,9 @@ LLMによる学術論文からのデータ収集を効率化するにあたり�
 
 ## ChatGPT4 record
 
-https://chat.openai.com/share/8193f60f-a86f-4022-b6b1-abf27a9f179a
+https://chat.openai.com/share/3880e81a-0789-4b93-8768-3db41f6a2ef9
+
+上記リンクがアクセスできない場合には、[general-question-evaluation-by-chatgpt4.txt](general-question-evaluation-by-chatgpt4.txt)
 
 ## Results
 
